@@ -33,13 +33,10 @@ Gracias a test con usuarios pudimos detectar los siguientes problemas a la hora 
 ## Definición del público objetivo
 
 ### User persona
-<p align="center">
-   <img src="https://imgur.com/rSFttPf">
-</p>
+https://i.imgur.com/rSFttPf.jpg
 
 ### Customer Journey Map (indicando pain y gain points)
-<p align="center">
-   <img src="https://drive.google.com/file/d/1UPEn9ghHZerF5GsuuORhAFudA-EL1MPx/view?usp=sharing">
+![alt de imagen](https://i.imgur.com/SxrttWv.jpg)
 
 ## Definición de la solución/producto
 
