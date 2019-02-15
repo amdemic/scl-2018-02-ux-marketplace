@@ -5,10 +5,7 @@
 El proyecto consta en una renovación de una página web existente que corresponde al Hostal El Renacimiento ubicado en Cusco, Perú.
 
 ## Planeamiento y presupuesto
-
-<p align="center">
-   <img src="https://drive.google.com/file/d/1A4kWVlMjtTRVy9SpplYXS8UQeyNPYArT/view?usp=sharing">
-</p>
+![alt de imagen](https://i.imgur.com/aOui9yY.jpg)
 
 ### Trello
 https://trello.com/b/eotbA211/hostal-renacimiento
