@@ -33,7 +33,7 @@ Gracias a test con usuarios pudimos detectar los siguientes problemas a la hora 
 ## Definición del público objetivo
 
 ### User persona
-https://i.imgur.com/rSFttPf.jpg
+![alt de imagen](https://i.imgur.com/rSFttPf.jpg)
 
 ### Customer Journey Map (indicando pain y gain points)
 ![alt de imagen](https://i.imgur.com/SxrttWv.jpg)
